@@ -1,7 +1,8 @@
 Insurance Risk and Claim Analysis - Power BI
 An interactive Power BI dashboard tracking claim frequency, financial exposure, and demographic risk factors across 38,000 policyholder records.   
 
-Dashboard Preview:(./DASHBOARD.png)
+Dashboard Preview:
+![Dashboard Preview](DASHBOARD.png)
 
 Project Overview:
 Total Policies: 38,000 policies analyzed across demographic groups.   
